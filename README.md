@@ -11,4 +11,4 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ---
-< img align="left" alt="My Github Stats" src="https://github-readme-stats.vercel.app/api?username=dibyanshushekhardey&show_icons=true&hide_border=true"/>
+< img align="left" alt="dibyanshushekhardey's Github Stats" src="https://github-readme-stats.vercel.app/api?username=dibyanshushekhardey&show_icons=true&hide_border=true"/>
