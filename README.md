@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on IOT and machine learning.
 - 📫 How to reach me 
 - email - deydibyanshushkr7213996@gmail.com
-- developing my portfolio - https://dibyanshushekhardey.github.io/Portfolio/
+
 
 <!---
 dibyanshushekhardey/dibyanshushekhardey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
