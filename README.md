@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dibyanshushekhardey
 - 👀 I’m interested in electronics, data science and data structures.
-- 🌱 I’m currently learning machine learning.
+- 🌱 I’m currently learning machine learning and its related libraries.
 - 💞️ I’m looking to collaborate on IOT and machine learning.
 - 📫 How to reach me 
 - email - deydibyanshushkr7213996@gmail.com
