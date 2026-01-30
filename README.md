@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   
-  <img height="200px" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=dibyanshushekhardey&theme=merko&layout=compact&border_color=005ce6&langs_count=6" />
+  <img height="200px" src="https://github-readme-stats-trinibs-projects.vercel.app/api/top-langs?username=dibyanshushekhardey&theme=tokyonight&layout=compact&border_color=005ce6&langs_count=6" />
 </p>
 
 <br/>
