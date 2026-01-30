@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 ## 📊 Language Usage
 <!-- 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshushekhardey&layout=compact&theme=tokyonight)
--->
-
-
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dibyanshushekhardey)]
+-->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshushekhardey&stats_format=bytes)
+
+
 
 
