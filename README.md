@@ -21,11 +21,12 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshushekhardey&stats_format=bytes)
 
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshushekhardey&layout=compact&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshushekhardey&layout=compact)
 
 -->
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dibyanshushekhardey&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=dibyanshushekhardey&layout=compact)
 
 
 
